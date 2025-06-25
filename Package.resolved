@@ -1,0 +1,15 @@
+{
+  "originHash" : "55266b9977b57744461a1639ad8af291e88f090ec7121db7b8cbef623b6c4408",
+  "pins" : [
+    {
+      "identity" : "idwise-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/idwise/idwise-ios-sdk.git",
+      "state" : {
+        "revision" : "a95f1fa7542e122ccd1d096c11a7caa7e5dd385e",
+        "version" : "5.5.2"
+      }
+    }
+  ],
+  "version" : 3
+}
