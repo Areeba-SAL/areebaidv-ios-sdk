@@ -28,7 +28,7 @@ let package = Package(
     targets: [
         .binaryTarget(
                    name: "AreebaIDV",
-                   url: "https://www.dropbox.com/scl/fi/cgxnpyreal1j59gfa75u6/AreebaIDV.xcframework.zip?rlkey=62fdkw6mpxx2c3qco780jadbo&st=6je8p45s&dl=1",
+                   url: "https://docs.areeba.com/SDK/AreebaIDV.xcframework.zip",
                    checksum: checksumForAreebaIDV
                ),
         .target(
